@@ -1,0 +1,2 @@
+# Choose_function
+activeandroid轻量级ORM+DragSortListView，完成拖拽选择和排序
